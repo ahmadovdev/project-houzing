@@ -20,3 +20,20 @@ body {
   /* padding */
   --padding: 0 130px;
 }
+
+.title {
+  color: #0d263b;
+  font-family: 'Montserrat';
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 36px;
+  text-align: center;
+  letter-spacing: -0.02em;
+}
+.subTitle {
+  color: #0d263b;
+  font-family: 'Montserrat';
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+}
