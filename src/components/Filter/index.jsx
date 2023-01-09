@@ -50,7 +50,7 @@ export const Filter = () => {
       />
       <Dropdown overlay={menu} placement="bottomRight" arrow={{ pointAtCenter: true }}>
       <div>
-      <Button type={'light'}>
+      <Button type='light'>
         <Icons.Filter/>Advanced
       </Button>
       </div>
