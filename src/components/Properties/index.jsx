@@ -19,7 +19,7 @@ export const Properties = () => {
   return <Container>
     {
       data.map((value) => {
-        return <HouseCard data={value} />
+        return <HouseCard key={value.id} data={value} />
       })
     }
   </Container>;

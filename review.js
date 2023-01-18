@@ -23,3 +23,10 @@
 // https
 // custom hooks
 // useHttps
+
+// 5-dars
+// 1440px bug fixed
+// Carousel height fixed
+// lazy load 
+// place to center
+// change flex to grid
